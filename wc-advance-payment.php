@@ -3,7 +3,7 @@
  * Plugin Name: WC Advance Payment
  * Plugin URI: https://github.com/
  * Description: Adds advance payment functionality to the WooCommerce store checkout.
- * Version: 1.0.0
+ * Version: 0.0.1
  * Author: Shameem Reza
  * Author URI: https://shameem.dev/
  */
