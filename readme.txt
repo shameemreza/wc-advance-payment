@@ -1,6 +1,17 @@
-# WooCommerce Advance Payment
+=== WC Advance Payment ===
+Contributors: shameemreza
+Donate link: https://ko-fi.com/shameemreza
+Tags: WooCommerce Advance Payment, Customer Payment Options, Advance Payment Plugin, WooCommerce, Payment Options, Payment Gateway, WooCommerce Payments, Order Management, Flexible Payments
+Requires at least: 5.3
+Tested up to: 6.2
+Stable tag: 0.0.1
+Requires PHP: 7.4
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-*Accept advance payments on your WooCommerce store with ease. Increase customer flexibility and improve order management with our powerful and user-friendly WooCommerce Advance Payment plugin.*
+Accept advance payments on your WooCommerce store with ease. Increase customer flexibility and improve order management with our powerful and user-friendly WooCommerce Advance Payment plugin.
+
+== Description ==
 
 WooCommerce Advance Payment is a powerful WooCommerce extension that enhances your online store's payment options by adding an advanced payment feature. With WooCommerce Advance Payment, you can easily collect advance payments from customers, providing them with a flexible and convenient way to make partial payments before completing their order.
 
@@ -12,7 +23,7 @@ To further streamline the process, WooCommerce Advance Payment includes a Paymen
 
 One of the standout features of WooCommerce Advance Payment is its compatibility with popular translation plugins, making it easy to translate the plugin into multiple languages. This ensures that you can provide a localized experience to your customers, regardless of their language preference.
 
-### Key Features of WooCommerce Advance Payment:
+= Key Features of WooCommerce Advance Payment: =
 
 * Enable advance payment options in WooCommerce
 * Choose between optional or required advance payments
@@ -26,41 +37,41 @@ With WooCommerce Advance Payment, you can enhance your WooCommerce store's payme
 
 Start using WooCommerce Advance Payment today and take your WooCommerce store to the next level by adding advanced payment functionality.
 
-## Frequently Asked Questions
+== Frequently Asked Questions ==
 
-### How does the WooCommerce Advance Payment plugin work?
+= How does the WooCommerce Advance Payment plugin work? =
 
 The WooCommerce Advance Payment plugin allows you to collect advanced payments from your customers during the checkout process. You can set the payment as optional or required, specify a fixed amount or a percentage, and display payment information fields for customers to provide additional details.
 
-### Can I set the advanced payment as optional or required?
+= Can I set the advanced payment as optional or required? =
 
 Yes, you have the flexibility to choose whether the advanced payment is optional or required. You can configure this setting in the plugin's settings page and decide whether customers can proceed with the order without making an advanced payment.
 
-### How can customers make an advanced payment?
+= How can customers make an advanced payment? =
 
 During the checkout process, customers will see an option to make an advanced payment if it is enabled. They can choose to make the payment and provide any necessary payment information, which will be reflected in the order details and calculations.
 
-### Can customers provide additional payment information with the advanced payment?
+= Can customers provide additional payment information with the advanced payment? =
 
 Yes, customers can provide additional payment information through a dedicated "Payment Information" box displayed during checkout. They can enter transaction numbers, payment details, or any relevant information related to the advanced payment.
 
-### Does the plugin support multiple languages?
+= Does the plugin support multiple languages? =
 
 Yes, the WooCommerce Advance Payment plugin is fully compatible with translation plugins, allowing you to translate the plugin into different languages. You can use popular translation plugins like WPML or Polylang to create multilingual versions of your website.
 
-### Will advanced payment details be included in order notifications and emails?
+= Will advanced payment details be included in order notifications and emails? =
 
 Yes, advanced payment details, including the payment amount and customer-provided payment information, will be included in order notifications and emails sent to both the customer and the store admin. This ensures clear communication and transparency regarding the advanced payment.
 
 == Screenshots ==
 
-<img height="580px" src="screenshot-1.png">
-<img height="580px" src="screenshot-2.png">
-<img height="580px" src="screenshot-3.png">
+1. Plugin Settings Page.
+2. Checkout Page.
+3. Order Details.
 
-## Installation
+== Installation ==
 
-### Method 1: Installation from the WordPress Admin Panel:
+= Method 1: Installation from the WordPress Admin Panel: =
 
 1. Log in to your WordPress admin panel.
 2. Navigate to "Plugins" in the left-hand menu.
@@ -70,7 +81,7 @@ Yes, advanced payment details, including the payment amount and customer-provide
 6. After installation, click on "Activate" to activate the plugin.
 7. The WooCommerce Advance Payment plugin is now installed and active on your website.
 
-### Method 2: Manual Upload via FTP:
+= Method 2: Manual Upload via FTP: =
 
 1. Download the WooCommerce Advance Payment plugin from the official WordPress plugin repository or from a trusted source.
 2. Extract the downloaded ZIP file to your computer.
@@ -84,3 +95,12 @@ Yes, advanced payment details, including the payment amount and customer-provide
 10. The WooCommerce Advance Payment plugin is now installed and active on your website.
 
 You can choose either of these methods based on your preference and convenience to install the plugin successfully.
+
+== Changelog ==
+
+= 0.0.1 =
+* Initial Release
+
+== Upgrade Notice ==
+
+This is a initial release and no upgrade is required.
