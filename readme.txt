@@ -1,7 +1,7 @@
 === WC Advance Payment ===
 Contributors: shameemreza
 Donate link: https://ko-fi.com/shameemreza
-Tags: WooCommerce Advance Payment, Customer Payment Options, Advance Payment Plugin, WooCommerce, Payment Options, Payment Gateway, WooCommerce Payments, Order Management, Flexible Payments
+Tags: woocommerce advance payment, customer payment options, advance payment plugin, woocommerce, payment options, payment gateway, woocommerce payments, 0rder management, flexible payments
 Requires at least: 5.3
 Tested up to: 6.2
 Stable tag: 0.0.1
